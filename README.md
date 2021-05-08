@@ -1,1 +1,2 @@
 # GitHub_Assignment5
+This program is designed for a surfboard shop  called "Point Break Surf Shop". It displays a menu to user and allows them to purchase a surfboard in a multiple sizes and quantities, displays the total for the purchase, the total amount of surfboards sold. Users are also able to display the menu options anytime and choose between options on what they'd like to do. (There are bugs in this and need to be fixed)
